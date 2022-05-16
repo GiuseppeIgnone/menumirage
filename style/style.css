@@ -34,14 +34,14 @@ html, body{
     line-height: 70px;
   }
 
+   .col-3{
+    text-align: center;
+  }
+
   .span-col-9{
     display: inline-block;
     vertical-align: middle;
     line-height: 18px; /* <-- adjust this */
-  }
-
-  .col-3{
-    text-align: center;
   }
 
   #sottocategoria{
