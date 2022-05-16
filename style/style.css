@@ -40,6 +40,10 @@ html, body{
     line-height: 18px; /* <-- adjust this */
   }
 
+  .col-3{
+    text-align: center;
+  }
+
   #sottocategoria{
     color:#005e82;
     font-family:Lucida Handwriting;
