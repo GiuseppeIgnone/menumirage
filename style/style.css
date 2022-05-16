@@ -57,6 +57,9 @@ html, body{
       color:grey;
       font-size:12pt;
       margin: 1px;
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 18px; /* <-- adjust this */
     }
 
   
