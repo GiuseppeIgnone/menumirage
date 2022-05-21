@@ -55,7 +55,7 @@ html, body{
   }
   .card-title{
       font-family: "Lucida Handwriting";
-        color:#7ABAC8;
+      color:#005e82;
     }
     .card-text{
       color:grey;
@@ -152,6 +152,14 @@ html, body{
           margin-top:4%;
           width: 25%;
         }
+
+        #gelato2{ 
+          margin-left: auto; margin-right: auto; 
+        } 
+
+        #bodygelato{ 
+          height:170px 
+        }
       }
       
       @media screen and (max-width: 575px){
@@ -165,4 +173,8 @@ html, body{
         #hrfooter{
           width:90%;
         }
+
+        #gelato2{margin-left: auto; margin-right: auto; } 
+        
+        #bodygelato{ height:170px }
       }
