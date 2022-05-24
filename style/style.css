@@ -19,7 +19,8 @@ h3{
 
 #pfooter{font-size:10pt;
   color:gray;
-  font-size: 8pt;}
+  font-size: 8pt;
+}
 
   h1{
     text-align:center;
@@ -97,7 +98,7 @@ h3{
 
       .container{
         margin-top: 30px;
-        margin-bottom: 80px;
+        margin-bottom: 60px;
       }
 
       .center {
