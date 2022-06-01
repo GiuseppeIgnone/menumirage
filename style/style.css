@@ -28,14 +28,20 @@ h3{
     font-family:Lucida Handwriting;
   }
  
-  /* DRINK PAGE*/
+  
 
   #prodotti{
     padding: 2%;
     border-bottom: solid 1px;
     border-color: lightgray;
-    height: 83px;
-    line-height: 73px;
+    min-height: 85px;
+    line-height: 75px;
+  }
+
+  #ultimi-prodotti{
+    padding: 2%;
+    min-height: 85px;
+    line-height: 75px;
   }
 
    .col-3{
